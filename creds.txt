@@ -1,2 +1,2 @@
-key:
-secret:
+key: AKIAQDL5TGYE2WSROEW2
+secret: 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
